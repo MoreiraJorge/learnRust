@@ -1,7 +1,30 @@
 {
 	"folders": [
 		{
-			"path": "."
+			"path": "./Chapter1/hello_cargo"
+		},
+		{
+			"path": "./Chapter1/hello_world"
+		},
+		{
+			"path": "./Chapter2/guessing_game"
 		}
-	]
+	],
+	"tasks": {
+		"version": "2.0.0",
+		"tasks": [
+			{
+				"type": "cargo",
+				"command": "build",
+				"problemMatcher": [
+					"$rustc"
+				],
+				"group": {
+					"kind": "build",
+					"isDefault": true
+				},
+				"label": "rust: cargo build"
+			}
+		]
+	},
 }
