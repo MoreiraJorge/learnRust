@@ -1,5 +1,3 @@
-// C to F -> (celsius  x (9/5)) + 32
-// F to C -> (Fahren - 32)/(9/5)
 use std::io;
 use std::io::prelude::*;
 
