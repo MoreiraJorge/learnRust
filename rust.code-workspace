@@ -8,6 +8,21 @@
 		},
 		{
 			"path": "./Chapter2/guessing_game"
+		},
+		{
+			"path": "Chapter3/variables"
+		},
+		{
+			"path": "Chapter3/functions"
+		},
+		{
+			"path": "Chapter3/branches"
+		},
+		{
+			"path": "Chapter3/loops"
+		},
+		{
+			"path": "Chapter3/fahren_to_celsius"
 		}
 	],
 	"tasks": {
