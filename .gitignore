@@ -4,6 +4,8 @@ https://www.toptal.com/developers/gitignore/api/rust,visualstudiocode,clion,inte
 # Edit at 
 https://www.toptal.com/developers/gitignore?templates=rust,visualstudiocode,clion,intellij
 
+**/.DS_Store/**
+
 ### CLion ###
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, 
 CLion, Android Studio, WebStorm and Rider

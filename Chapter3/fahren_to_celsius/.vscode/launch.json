@@ -12,7 +12,7 @@
                 "args": [
                     "build",
                     "--bin=main",
-                    "--package=guessing_game"
+                    "--package=fahren_to_celsius"
                 ],
                 "filter": {
                     "name": "main",
@@ -31,7 +31,7 @@
                     "test",
                     "--no-run",
                     "--bin=main",
-                    "--package=guessing_game"
+                    "--package=fahren_to_celsius"
                 ],
                 "filter": {
                     "name": "main",
