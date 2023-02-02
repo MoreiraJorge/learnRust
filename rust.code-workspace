@@ -23,6 +23,9 @@
 		},
 		{
 			"path": "Chapter3/fahren_to_celsius"
+		},
+		{
+			"path": "rust_tutorial"
 		}
 	],
 	"tasks": {
